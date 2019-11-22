@@ -1,13 +1,14 @@
 {
 	"manifest_version": 2,
 
-	"name": "Material Incognito Light Theme",
-	"description": "A theme that removes the dark Incognito Mode colour scheme from Chrome.",
-	"version": "5.0.1",
+	"name": "Incognito Visibility Theme",
+	"description": "A theme that attempts to make the incognito theme more readable.",
+	"version": "1.0.0",
 
 	"theme": {
 		"images": {
-			"theme_ntp_background": "images/theme_ntp_background.png"
+			"theme_ntp_background": "images/theme_ntp_background.png",
+			"theme_tab_background_incognito": "images/theme_ntp_background.png"
 		},
 		"colors": {
 			"frame": [222, 225, 230],
