@@ -7,8 +7,7 @@
 
 	"theme": {
 		"images": {
-			"theme_ntp_background": "images/theme_ntp_background.png",
-			"theme_tab_background_incognito": "images/theme_ntp_background.png"
+			"theme_ntp_background": "images/theme_ntp_background.png"
 		},
 		"colors": {
 			"frame": [222, 225, 230],
@@ -16,6 +15,9 @@
 			"frame_incognito": [222, 225, 230],
 			"frame_incognito_inactive": [231, 234, 237],
 			"ntp_text": [2, 1, 10]
+		},
+		"tints": {
+
 		},
 		"properties": {
 			"ntp_logo_alternate": 0
